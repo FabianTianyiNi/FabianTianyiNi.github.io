@@ -7,8 +7,7 @@ redirect_from:
   - /cv
 ---
 {% include base_path %}
-CV
-===
+
 Full PDF version is available upon being requested.
 
 Education
