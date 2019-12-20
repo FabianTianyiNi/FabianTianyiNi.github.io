@@ -13,7 +13,7 @@ Full PDF version is available upon being requested.
 
 Education
 ======
-* M.A. in Linguistics, Arizona State University, *anticipated* 2021
+* M.A. in Linguistics, Arizona State University, *anticipated*  2021
 * M.S. in Computer Science, Arizona State University, 2019
 * M.S. in Statistics, the University of Arizona, 2019
 * B.Eng. in Computer Science, Nanjing University of Posts and Telecommunications, 2016
