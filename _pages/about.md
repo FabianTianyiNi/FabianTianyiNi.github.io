@@ -16,4 +16,4 @@ Academically, I am only using human languages to carry out my researches. But th
 
 Updates
 ---
--> December 16, 2019 graduated from Master of Science in Computer Science @ASU.  
+- December 16, 2019 graduated from Master of Science in Computer Science @ASU.  
