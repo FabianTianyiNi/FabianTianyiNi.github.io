@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tianyi B. Ni"
 title_separator          : "-"
-name                     : &name "Tianyi B. Ni"
+name                     : &name "Tianyi Ni"
 description              : &description "personal description"
 url                      : https://fabiantianyini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyi B. Ni"
-  avatar           : "profile.png"
+  name             : "Tianyi Ni"
+  avatar           : "tianyin1.png"
   location         : "Phoenix, AZ"
   employer         :
   pubmed           : 
