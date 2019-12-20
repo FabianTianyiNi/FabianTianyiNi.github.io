@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an graduate student in the Department of English at Arizona State University. I also have a Master in Computer Science from Arizona State University, and a Master of Science in Statistics in the Department of Mathematics at the University of Arizona. At ASU, I participated in the Syntax Research Group, which focuses on the theoretical research on Syntax of human language. My research is focused on variation across human languages, specifically in the domains of syntax (sentence structure) and morphology (word structure). I am also interested in using computational methods to process human languages and simulate the language change, e.g., Computational/Statistical Historical Linguistics and Computational Language Revitalization. Computation, Neuroscience, Brain and Mind will always drive my research forward.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Regarding language revitalization, I am working with Athabaskan language family, especially Northern Athabaskan languages in Alaska and British Columbia, Canada, which are also the languages I like to use when I am doing my syntax research. Besides, old languages, such as Old English and Old Norse, are not only beautiful in literature but also useful to learn and make us know how did they change throughout the history of human beings.
+
+Academically, I am only using human languages to carry out my researches. But the other part of me likes to figure out [Xenolinguistics](https://en.wikiversity.org/wiki/Extraterrestrial_life/Xenolinguistics).
+
 
 A data-driven personal website
 ======
