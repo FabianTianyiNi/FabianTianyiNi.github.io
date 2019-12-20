@@ -6,22 +6,11 @@ author_profile: true
 redirect_from:
   - /cv
 ---
-
-{% include base_path %}
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
 {% include base_path %}
 CV
 ===
 Full PDF version is available upon being requested.
+
 Education
 ======
 * M.A. in Linguistics, Arizona State University, *anticipated* 2021
